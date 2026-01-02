@@ -1,6 +1,6 @@
 # 🚀 Smart Resume Coach - AI Agent
 
-### 🏆 Built for [Hackathon Name] 2026
+### 🏆 Built for [Hackathon] 2026
 
 **Smart Resume Coach** is an Agentic AI application that acts as a personal Tech Recruiter. It doesn't just check keywords; it builds a personalized study roadmap to help students land their dream jobs.
 
